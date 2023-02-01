@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. changing on local host in feature branch
+          Edit <code>src/App.js</code> and save to reload. changing on local host in feature branch 2
         </p>
         <a
           className="App-link"
